@@ -1,0 +1,45 @@
+body{
+	font-size: 0px;
+}
+
+.box{
+	border:1px solid black;
+	display: inline-block;
+}
+
+.container{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+}
+
+.firstrow{
+	width: 50%;
+	height: 200px;
+}
+
+.secondrow{
+	height: 300px;
+	width: 33.33%;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
+}
